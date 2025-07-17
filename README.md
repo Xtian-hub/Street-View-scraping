@@ -42,6 +42,15 @@ Created by fdd4s
 Send feedback and questions to fc1471789@gmail.com  
 All files are public domain https://unlicense.org/  
 
+## scrap svi with boundary
+After running streetview.ipynb, a file named download.sh will be generated.
+Within streetview.ipynb, you need to specify a shapefile (.shp) containing the vector geometry of the target area. This file should include all panorama IDs located within the specified vector region.
+
+To complete the Street View download based on the vector boundary, run the script using PHP and specify the output directory.
+
+### Example:
+./download_sv.sh ./streetview
+
 ## Important Notice
 
 This open-source code is provided solely for scientific research.
