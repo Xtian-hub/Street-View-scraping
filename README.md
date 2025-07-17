@@ -49,7 +49,7 @@ Within streetview.ipynb, you need to specify a shapefile (.shp) containing the v
 To complete the Street View download based on the vector boundary, run the script using PHP and specify the output directory.
 
 ### Example:
-./download_sv.sh ./streetview
+    ./download_sv.sh ./streetview
 
 ## Important Notice
 
