@@ -41,3 +41,9 @@ Web Browser: Chrome and Firefox: three.js (webgl based): https://github.com/pljh
 Created by fdd4s  
 Send feedback and questions to fc1471789@gmail.com  
 All files are public domain https://unlicense.org/  
+
+## Important Notice
+
+This open-source code is provided solely for scientific research.
+It must not be used for commercial purposes or for any illegal or unethical activity.
+Please comply with all applicable laws—any misuse is the sole responsibility of the user and is unrelated to the author.
